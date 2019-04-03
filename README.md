@@ -4,7 +4,7 @@
 
 ## 背景
 
-有位伟大的工程师[996icu](https://github.com/996icu)发起了[996.ICU](https://github.com/996icu/996.ICU)（部分浏览器已屏蔽，威武）项目。短短数天，已经突破16w star。
+有位伟大的工程师[996icu](https://github.com/996icu)发起了[996.ICU](https://github.com/996icu/996.ICU)（部分浏览器已屏蔽，威武）项目，指责国内加班乱象。短短数天，已经突破16w star。
 向他致敬，向所有工程师致敬。
 
 ## 为什么写这篇文章
