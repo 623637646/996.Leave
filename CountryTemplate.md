@@ -10,6 +10,8 @@
 
 [某某某](github主页)
 
+{Information}
+
 # 工作强度
 
 {Information}
