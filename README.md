@@ -14,7 +14,7 @@
 
 # 做出你的贡献
 
-**大家可以fork这个repo，在country目录新建一个国家的文档，发pull request给我。**
+**大家可以fork这个repo，在country目录新建一个国家的文档，发pull request给我。模板在[这里](https://github.com/623637646/996.Leave/blob/master/CountryTemplate.md)**
 
 <br/>
 
