@@ -16,6 +16,10 @@
 
 **大家可以fork这个repo，在country目录新建一个国家的文档，发pull request给我。模板在[这里](https://github.com/623637646/996.Leave/blob/master/CountryTemplate.md)**
 
+**如果有任何问题，或者内容错误，请提[Issues](https://github.com/623637646/996.Leave/issues)**
+
+了解工作的，请移步“**招聘资源**”，Shopee的HR会负责耐心的回复你
+
 <br/>
 
 本篇为**新加坡篇**
