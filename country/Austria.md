@@ -76,8 +76,8 @@
 
 以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
 
-[apptec GmbH: Contact](https://apptec.at/kontakt/）
-[apptec GmbH: Job](https://apptec.at/jobs/）
+[apptec Contact](https://apptec.at/kontakt/）
+[apptec Job](https://apptec.at/jobs/）
 
 apptec GmbH
 Slamastraße 43
