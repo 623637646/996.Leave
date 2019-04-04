@@ -104,7 +104,7 @@
 以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
 
 * **我现在在Shopee，这是[Shopee的招聘链接](https://careers.shopee.sg)**
-    * May(Email:may.yang@shopee.com) 负责Shopee技术招聘相关事宜
+    * May(Email:may.yang@shopee.com) 负责Shopee技术招聘相关事宜 （如果有数据分析师和产品经理，也欢迎申请）
     * Dora(Email:qiand@seagroup.com) 负责Shopee技术管理岗招聘相关事宜
 * 我是通过猎头朋友推荐过来的。感谢猎头Season (Email:season.yang@ambition.com.sg , [Linkedin](https://www.linkedin.com/in/yangseason/
 ))。
