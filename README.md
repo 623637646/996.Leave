@@ -19,6 +19,7 @@
 <br/>
 
 本篇为**新加坡篇**
+
 其他的国家：
 * [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
 
