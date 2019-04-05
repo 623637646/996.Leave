@@ -2,29 +2,26 @@
 
 **很多事情你无法改变，但可以选择离开**
 
-# 背景
+### 背景
 
-有位伟大的工程师[996icu](https://github.com/996icu)发起了[996.ICU](https://github.com/996icu/996.ICU)（部分浏览器已屏蔽，威武）项目，指责国内加班乱象。短短数天，已经突破16w star。
+有位伟大的工程师[996icu](https://github.com/996icu)发起了[996.ICU](https://github.com/996icu/996.ICU)（部分浏览器已屏蔽，威武）项目，指责国内加班乱象。短短数天，已经突破17w star。
 
 向他致敬，向所有工程师致敬。
 
-# 为什么写这篇文章
+### 为什么写这篇文章
 
 以前我也在一个中国某大厂工作，有着看似令人羡慕不已（真的令人羡慕不已）的工作。但是因为种种原因，我离开了中国，来到新加坡。我才发现，原来生活可以这么不同。所以写这篇文章抒发感慨，同时希望可以帮助一些人吧。
 
-# 做出你的贡献
+### 其他
 
-**大家可以fork这个repo，在country目录新建一个国家的文档，发pull request给我。模板在[这里](https://github.com/623637646/996.Leave/blob/master/CountryTemplate.md)**
+如果您在海外工作，了解海外某个国家的政策，**[请帮助大家](https://github.com/623637646/996.Leave/blob/master/Contribution.md)**，让国内的人也能了解。
 
-**如果有任何问题，或者内容错误，请提[Issues](https://github.com/623637646/996.Leave/issues)**
+想要了解海外招聘的，请移步“**[招聘资源](https://github.com/623637646/996.Leave/blob/master/Careers.md)**”
 
-了解工作的，请移步“**招聘资源**”，Shopee的HR会负责耐心的回复你
+如果有任何问题，或者内容错误，请提**[Issues](https://github.com/623637646/996.Leave/issues)**。
 
-<br/>
+本篇为**新加坡篇**，其他的国家：
 
-本篇为**新加坡篇**
-
-其他的国家：
 * [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
 * [荷兰](https://github.com/623637646/996.Leave/blob/master/country/Netherlands.md)
 * [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
