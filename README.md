@@ -27,6 +27,7 @@
 其他的国家：
 * [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
 * [荷兰](https://github.com/623637646/996.Leave/blob/master/country/Netherlands.md)
+* [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
 
 
 ---
