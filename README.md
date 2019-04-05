@@ -18,7 +18,7 @@
 
 想要了解海外招聘的，请移步“**[招聘资源](https://github.com/623637646/996.Leave/blob/master/Careers.md)**”
 
-如果有任何问题，或者内容错误，请提**[Issues](https://github.com/623637646/996.Leave/issues)**。
+如果有任何问题，或者内容错误，请提 **[Issues](https://github.com/623637646/996.Leave/issues)** 。
 
 本篇为**新加坡篇**，其他的国家：
 
