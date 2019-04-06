@@ -43,3 +43,9 @@ LinkedIn，stackoverflow，Indeed是比较寻常的，还有就是各大公司�
 简介：Naspers前子公司
 全靠linkedin.
 欢迎咨询 317665249@qq.com
+
+# 新西兰 Yellow
+
+Seek, LinkedIn 是常见渠道。但整个招聘市场基本以猎头中介为主。相对而言，内推更为有效。
+
+欢迎通过 Email 联系我[davidlu](https://github.com/davidlu1001)，很愿意和各位朋友探讨我可以如何帮助你，Email 地址可以在我的 GitHub 个人页面下找到。
