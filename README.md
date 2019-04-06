@@ -40,9 +40,6 @@
 
 现在在 Shopee（新加坡）公司任职iOS开发工程师
 
-私人Email：wy19900729@gmail.com
-
-技术博客：http://623637646.github.io/
 
 90年出生，13年国内二本毕业，iOS工作7年。
 
