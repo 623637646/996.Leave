@@ -20,6 +20,10 @@
 
 如果有任何问题，或者内容错误，请提 **[Issues](https://github.com/623637646/996.Leave/issues)** 。
 
+有价值的Issues：
+
+* [新加坡加班和竞争也十分激烈，补充几个遗漏的观点](https://github.com/623637646/996.Leave/issues/28)
+
 本篇为**新加坡篇**，其他的国家：
 
 * [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
