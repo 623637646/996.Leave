@@ -25,6 +25,7 @@
 * [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
 * [荷兰](https://github.com/623637646/996.Leave/blob/master/country/Netherlands.md)
 * [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
+* [新西兰](https://github.com/623637646/996.Leave/blob/master/country/New%20Zealand.md)
 
 
 ---
@@ -37,11 +38,7 @@
 
 [Yanni，王氩](https://github.com/623637646)
 
-现在在 Shopee（新加坡）公司任职iOS开发工程师
-
-私人Email：wy19900729@gmail.com
-
-技术博客：http://623637646.github.io/
+2018年8月份加入Shopee（新加坡）公司任职iOS开发工程师至今。
 
 90年出生，13年国内二本毕业，iOS工作7年。
 
@@ -173,6 +170,20 @@
 1. 基础面试很细致，基本功不好很难蒙混过关
 2. 算法面试很普遍，尤其是需要网上某个平台敲代码，Run结果（在国内好像不多）
 
+面试通过后，公司会帮助申请工作签证。只需要等通知，买机票来上班就好了。
+
+# 各抒己见
+
+[yanjunding](https://github.com/yanjunding):
+
+* 本人在新加坡工作10+年，最近刚到新西兰。这里有许多从新加坡过来的ITer。但是也有很多想回新加坡的。新加坡的税少，华人面孔多是最主要的原因。
+新加坡的教育方式跟国内差不多，高强度，周末基本掩盖在补习中。新西兰就比较放养，工作比较简单。
+* 所有新加坡公民和第二代PR需要服役，基本跑不掉的。如果逃跑，'永远'没有机会去新加坡工作。
+
+[ccwukong](https://github.com/ccwukong)
+
+* [新加坡加班和竞争也十分激烈，补充几个遗漏的观点](https://github.com/623637646/996.Leave/issues/28)
+
 # 招聘资源
 
 以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
@@ -183,6 +194,7 @@
 * 我是通过猎头朋友推荐过来的。感谢猎头Season (Email:season.yang@ambition.com.sg , [Linkedin](https://www.linkedin.com/in/yangseason/))。
 * [4月招聘 | 谁说裁员大潮引发就业寒冬？！新加坡25259个工作岗位紧急招人～](https://mp.weixin.qq.com/s/eVC7HxqZLk6K6YZwDTKs8g)
 * 推荐微信公众号 新加坡万事通，新加坡眼，新加坡狮城椰子，这些公众号不定期发布招聘信息，或者发布新加坡相关文章。
+* 本地招聘网站：jobsdb, jobstreet, Monster。
 * 由于我公司政策和个人精力原因，不能内推到公司工作，谢谢理解。
 
 ---
