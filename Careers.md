@@ -49,3 +49,25 @@ LinkedIn，stackoverflow，Indeed是比较寻常的，还有就是各大公司�
 Seek, LinkedIn 是常见渠道。但整个招聘市场基本以猎头中介为主。相对而言，内推更为有效。
 
 欢迎通过 Email 联系我[davidlu](https://github.com/davidlu1001)，很愿意和各位朋友探讨我可以如何帮助你，Email 地址可以在我的 GitHub 个人页面下找到。
+
+# 奥地利 [apptec GmbH](https://apptec.at/)
+
+以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
+
+招android开发，iOS开发，后台开发等
+
+apptec Contact: https://apptec.at/kontakt
+apptec Job: https://apptec.at/jobs
+
+apptec GmbH
+
+Slamastrasse 43
+
+1230 Wien
+
+
+Email: office@apptec.at
+
+Phone: +43 1 890 891 1
+
+Mobil: +43 676 327 78 32
