@@ -26,6 +26,7 @@
 * [荷兰](https://github.com/623637646/996.Leave/blob/master/country/Netherlands.md)
 * [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
 * [新西兰](https://github.com/623637646/996.Leave/blob/master/country/New%20Zealand.md)
+* [奥地利](https://github.com/623637646/996.Leave/blob/master/country/Austria.md)
 
 
 ---
