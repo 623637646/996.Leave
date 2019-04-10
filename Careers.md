@@ -34,6 +34,12 @@ Shopee HR
 * 欢迎访问Google的招聘页面[https://careers.google.com/](https://careers.google.com/)，Google在国内也有办公室，各位可以考虑一下。
 * 欢迎通过email联系我[HotDog](https://github.com/hotdogicn)，我很愿意和各位朋友探讨我可以如何帮助你，email地址可以在我的GitHub个人页面下找到。
 
+# 美国 DeepMap
+
+* DeepMap是一家发展迅速的创业公司，总部位于加利福尼亚州Palo Alto，硅谷的核心地带。 我们的使命是为自动驾驶汽车打造革命性的高清地图和高精度定位服务。 我们拥有来自最知名大学和软件公司的顶尖工程师，并且得到排名靠前的风险投资家的资助。 Business Insider将DeepMap评选为2017年推出的17家初创公司之一，并于2018年成为前50名初创公司之一！
+* 欢迎访问[DeepMap的招聘页面](https://hire.withgoogle.com/public/jobs/deepmapai)
+* 如需了解公司详情和内推，请通过Email联系我[Lenville](mailto:lenville@gmail.com)
+
 # 英国 伦敦 Topdeck
 
 LinkedIn，stackoverflow，Indeed是比较寻常的，还有就是各大公司网站。timothyshen1@hotmail.com 欢迎询问英国信息
