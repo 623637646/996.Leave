@@ -77,3 +77,9 @@ Email: office@apptec.at
 Phone: +43 1 890 891 1
 
 Mobil: +43 676 327 78 32
+
+
+# 瑞典
+
+Linkedin, Stackoverflow,或者各大公司官网
+也可以直接联系我chuan.jin@atqta.com，目前手上有几个合作公司的职位是面向国际招人的。

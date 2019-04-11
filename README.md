@@ -29,6 +29,7 @@
 * [新西兰](https://github.com/623637646/996.Leave/blob/master/country/New%20Zealand.md)
 * [奥地利](https://github.com/623637646/996.Leave/blob/master/country/Austria.md)
 * [澳大利亚](https://github.com/623637646/996.Leave/blob/master/country/Australia.md)
+* [瑞典](https://github.com/623637646/996.Leave/blob/master/country/Sweden.md)
 
 ---
 
