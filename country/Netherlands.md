@@ -28,6 +28,9 @@
 
 时薪：全职工作的参考以上月薪计算，如果做contracting的话会达到80欧以上，具体看经验水平了。
 
+荷兰对于雇佣来自国外的员工有额外的税收优惠，依旧是所谓的30% ruling, 意思是你税前工资的30%免税，一般来说，有30% ruling的人的税后工资会多出好几百欧。
+[official information here]{https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/individuals/living_and_working/working_in_another_country_temporarily/you_are_coming_to_work_in_the_netherlands/30_facility_for_incoming_employees/}
+
 # 税、养老、医疗及其他
   
 税真是心头痛啊。
@@ -92,6 +95,10 @@ source: https://www.expatax.nl/tax-rates-2018
 # 面试
 
 面试基本靠闲聊，往往第一轮会有一个coding test, 但是总体来说不会像硅谷那么hardcore。
+
+对于技术类工作，荷兰公司要雇佣欧盟以外的员工，需要有 KM 的资质，移民局网站会定期更新有资质的公司名单。[Public Register Regular Labour and Highly Skilled Migrants](https://ind.nl/en/Pages/public-register-recognised-sponsors.aspx)
+
+我统计了一下，截至2019年4月12日，一共有6926家公司。
 
 # 招聘资源
 
