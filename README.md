@@ -187,9 +187,10 @@
 
 * [新加坡加班和竞争也十分激烈，补充几个遗漏的观点](https://github.com/623637646/996.Leave/issues/28)
 
-一篇不错的文章
+几篇不错的文章
 
 * [别再抱怨了，没有比新加坡更好的地方了](https://mp.weixin.qq.com/s/3RKIEBNBCgvuVlkN-rItDA) (标题有点扯，但是文章感觉不错，强者在哪里都是强者，弱者在哪里都会抱怨)
+* [程序员的黑砖窑，东南亚博彩骗局详解](https://mp.weixin.qq.com/s/YjQi5cX8_WRZKsOTJfPMTQ)（计划去菲律宾马来西亚做博彩的工程师请注意。新加坡没发现此类问题）
 
 # 招聘资源
 
