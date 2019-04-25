@@ -201,11 +201,9 @@
     * May(Email:may.yang@shopee.com) 负责Shopee技术招聘相关事宜 （如果有大数据，数据分析师和产品经理，也欢迎申请）
     * Dora(Email:qiand@seagroup.com) 负责Shopee技术管理岗招聘相关事宜
 * 我是通过猎头朋友推荐过来的。感谢猎头Season (Email:season.yang@ambition.com.sg , [Linkedin](https://www.linkedin.com/in/yangseason/))。
-* [4月招聘 | 谁说裁员大潮引发就业寒冬？！新加坡25259个工作岗位紧急招人～](https://mp.weixin.qq.com/s/eVC7HxqZLk6K6YZwDTKs8g)
-* 推荐微信公众号 新加坡万事通，新加坡眼，新加坡狮城椰子，这些公众号不定期发布招聘信息，或者发布新加坡相关文章。
-* 本地招聘网站：jobsdb, jobstreet, Monster。
 * [狮城小马 | 🇸🇬新加坡IT互联网职位内推](https://www.sgxiaoma.com/zh/)（由在新工程师维护的一个新加坡互联网公司职位内推网站）
 * [从国内跳槽至新加坡工作的经验分享](https://wsgzao.github.io/post/singapore/)
+* 本地招聘网站：jobsdb, jobstreet, Monster。
 * 由于我公司政策和个人精力原因，不能内推到公司工作，谢谢理解。
 
 ---
