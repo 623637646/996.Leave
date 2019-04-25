@@ -191,6 +191,7 @@
 几篇不错的文章
 
 * [别再抱怨了，没有比新加坡更好的地方了](https://mp.weixin.qq.com/s/3RKIEBNBCgvuVlkN-rItDA) (标题有点扯，但是文章感觉不错，强者在哪里都是强者，弱者在哪里都会抱怨)
+* [从国内跳槽至新加坡工作的经验分享](https://wsgzao.github.io/post/singapore/)
 * [程序员的黑砖窑，东南亚博彩骗局详解](https://mp.weixin.qq.com/s/YjQi5cX8_WRZKsOTJfPMTQ)（计划去菲律宾，马来西亚做博彩的工程师请注意）
 
 # 招聘资源
@@ -202,7 +203,6 @@
     * Dora(Email:qiand@seagroup.com) 负责Shopee技术管理岗招聘相关事宜
 * 我是通过猎头朋友推荐过来的。感谢猎头Season (Email:season.yang@ambition.com.sg , [Linkedin](https://www.linkedin.com/in/yangseason/))。
 * [狮城小马 | 🇸🇬新加坡IT互联网职位内推](https://www.sgxiaoma.com/zh/)（由在新工程师维护的一个新加坡互联网公司职位内推网站）
-* [从国内跳槽至新加坡工作的经验分享](https://wsgzao.github.io/post/singapore/)
 * 本地招聘网站：jobsdb, jobstreet, Monster。
 * 由于我公司政策和个人精力原因，不能内推到公司工作，谢谢理解。
 
