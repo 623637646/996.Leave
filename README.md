@@ -159,6 +159,8 @@
 
 很多新加坡的公司对英语要求不高。对于想来新加坡的人来说，**英语真的不是最重要的！坚持迈出第一步才是。**
 
+**我的公司全程中文面试。**
+
 拿我举例子吧：
 
 高考英语满分150，我考57分。大学四级考了4次没过（而且是差距很大的那种没过=。=）
@@ -191,6 +193,8 @@
 几篇不错的文章
 
 * [别再抱怨了，没有比新加坡更好的地方了](https://mp.weixin.qq.com/s/3RKIEBNBCgvuVlkN-rItDA) (标题有点扯，但是文章感觉不错，强者在哪里都是强者，弱者在哪里都会抱怨)
+* [从国内跳槽至新加坡工作的经验分享](https://wsgzao.github.io/post/singapore/)
+* [作为一个软件工程师，为什么考虑去新加坡工作？](https://zhuanlan.zhihu.com/p/63979314)
 * [程序员的黑砖窑，东南亚博彩骗局详解](https://mp.weixin.qq.com/s/YjQi5cX8_WRZKsOTJfPMTQ)（计划去菲律宾，马来西亚做博彩的工程师请注意）
 
 # 招聘资源
@@ -201,10 +205,8 @@
     * May(Email:may.yang@shopee.com) 负责Shopee技术招聘相关事宜 （如果有大数据，数据分析师和产品经理，也欢迎申请）
     * Dora(Email:qiand@seagroup.com) 负责Shopee技术管理岗招聘相关事宜
 * 我是通过猎头朋友推荐过来的。感谢猎头Season (Email:season.yang@ambition.com.sg , [Linkedin](https://www.linkedin.com/in/yangseason/))。
-* [4月招聘 | 谁说裁员大潮引发就业寒冬？！新加坡25259个工作岗位紧急招人～](https://mp.weixin.qq.com/s/eVC7HxqZLk6K6YZwDTKs8g)
-* 推荐微信公众号 新加坡万事通，新加坡眼，新加坡狮城椰子，这些公众号不定期发布招聘信息，或者发布新加坡相关文章。
-* 本地招聘网站：jobsdb, jobstreet, Monster。
 * [狮城小马 | 🇸🇬新加坡IT互联网职位内推](https://www.sgxiaoma.com/zh/)（由在新工程师维护的一个新加坡互联网公司职位内推网站）
+* 本地招聘网站：jobsdb, jobstreet, Monster。
 * 由于我公司政策和个人精力原因，不能内推到公司工作，谢谢理解。
 
 ---
@@ -227,11 +229,12 @@
 
 <br/>
 
-如果你向往自由，公正
 
 如果你喜欢挑战
 
 如果你喜欢体验不同的生活
+
+如果你向往人权平等，言论自由，法可责众
 
 世界那么大，出去看看吧。
 
