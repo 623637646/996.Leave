@@ -31,6 +31,7 @@
 * [澳大利亚](https://github.com/623637646/996.Leave/blob/master/country/Australia.md)
 * [瑞典](https://github.com/623637646/996.Leave/blob/master/country/Sweden.md)
 * [日本](https://github.com/623637646/996.Leave/blob/master/country/Japan.md)
+* [日本_dreaMTank株式会社](https://github.com/623637646/996.Leave/blob/master/country/Japan_dreaMTank株式会社.md)
 
 ---
 
