@@ -109,3 +109,23 @@ Linkedin, Stackoverflow,或者各大公司官网
 ※请写明『应聘』或『応募』，最好能准备好最新简历
 
 ※我们不是中介，不做出售签证业务。
+
+
+# 日本 Japan
+
+会社名：dreaMTank株式会社
+
+会社主页：[www.mt-dreamtank.com](http://www.mt-dreamtank.com)
+
+【招聘】【赴日本软件开发工程师】
+招聘岗位：
+①iOS、Android、Unity ARVR NativeApp 开发技术者
+②Linux、C、C++、Python嵌入式开发/AI机器机械学习编程技术者
+③JavaWeb、JavaServer服务器端开发工程师
+条件：精通一至两种项目开发语言；实际工作经验2年以上、日语N2水平相当或以上、国内统招正规大专或大学毕业
+所在地：东京 横滨
+福利待遇：年薪400-1000万日元（根据日语和技术能力 上不封顶）
+
+联系方式
+新浪微博： 李拯東
+邮箱：dreamtank007@gmail.com
