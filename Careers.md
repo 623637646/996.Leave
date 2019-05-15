@@ -74,7 +74,7 @@ Mobil: +43 676 327 78 32
 Linkedin, Stackoverflow,或者各大公司官网
 也可以直接联系我chuan.jin@atqta.com，目前手上有几个合作公司的职位是面向国际招人的。
 
-# 日本 Japan
+# 日本 株式会社シーピーエス
 
 会社名：株式会社シーピーエス
 
@@ -111,7 +111,7 @@ Linkedin, Stackoverflow,或者各大公司官网
 ※我们不是中介，不做出售签证业务。
 
 
-# 日本 Japan
+# 日本 dreaMTank株式会社
 
 会社名：dreaMTank株式会社
 
