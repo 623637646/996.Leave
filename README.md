@@ -2,6 +2,7 @@
 > 很多事情你无法改变，但可以选择离开。
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
 
 ### 背景
 
