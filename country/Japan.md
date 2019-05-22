@@ -261,8 +261,7 @@ dreaMTank株式会社 社長
 
 福利待遇：年薪400-1000万日元（根据日语和技术能力 上不封顶）
 
-简历邮箱：dremtank007@gmail.com
+简历邮箱：dreamtank007@gmail.com 邮件里备注您的微信 然后加微信视频面试
 
 新浪微博：李拯東
 
-简历邮箱：dreamtank007@gmail.com 邮件里备注您的微信 然后加微信视频面试
