@@ -195,7 +195,7 @@
 * [别再抱怨了，没有比新加坡更好的地方了](https://mp.weixin.qq.com/s/3RKIEBNBCgvuVlkN-rItDA) (标题有点扯，但是文章感觉不错，强者在哪里都是强者，弱者在哪里都会抱怨)
 * [从国内跳槽至新加坡工作的经验分享](https://wsgzao.github.io/post/singapore/)
 * [作为一个软件工程师，为什么考虑去新加坡工作？](https://zhuanlan.zhihu.com/p/63979314)
-* [程序员的黑砖窑，东南亚博彩骗局详解](https://mp.weixin.qq.com/s/YjQi5cX8_WRZKsOTJfPMTQ)（计划去菲律宾，马来西亚做博彩的工程师请注意）
+* [程序员的黑砖窑，东南亚博彩骗局详解](https://www.tmtpost.com/3886060.html)（计划去菲律宾，马来西亚做博彩的工程师请注意）
 
 # 招聘资源
 
