@@ -115,3 +115,5 @@ Medicare是澳洲的联邦医疗保健系统，所有澳大利亚公民、永久
 
 还可以多关注大公司网站，以及参加一下社群活动，meetup等。
 但整个招聘市场基本以猎头中介为主。相对而言，内推更为有效。
+
+Canva(悉尼) 内推可联系@fa93hws。工资不错且提供雇主担保移民 https://www.canva.com/careers/engineering/
