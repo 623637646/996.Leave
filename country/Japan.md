@@ -8,7 +8,7 @@
 
 # 关于我
 
-樊　振剛([www.cps-soft.co.jp](https://github.com/fantaro))
+樊　振剛([https://github.com/fantaro](https://github.com/fantaro))
 
 株式会社シーピーエス　部長
 
