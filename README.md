@@ -28,7 +28,7 @@
 * [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
 * [新西兰](https://github.com/623637646/996.Leave/blob/master/country/New%20Zealand.md)
 * [奥地利](https://github.com/623637646/996.Leave/blob/master/country/Austria.md)
-* [德国](https://github.com/623637646/996.Leave/blob/master/country/Germany.md)
+* [德国](country/Germany.md)
 * [澳大利亚](https://github.com/623637646/996.Leave/blob/master/country/Australia.md)
 * [瑞典](https://github.com/623637646/996.Leave/blob/master/country/Sweden.md)
 * [日本](https://github.com/623637646/996.Leave/blob/master/country/Japan.md)
