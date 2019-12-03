@@ -152,7 +152,7 @@
 
 新加坡通胀率3-5%
 
-# 法律保障
+# 关于裁员
 
 最近的[网易暴力裁员](https://mp.weixin.qq.com/s/FW7uR5t6UMMxgkCcAvk-MA)，和[华为251](https://www.zhihu.com/question/358623450/answer/917544427)闹得沸沸扬扬。
 
