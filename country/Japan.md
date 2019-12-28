@@ -196,7 +196,7 @@ dreaMTank株式会社 社長
 
 # 休假
 
-每年三个大休 每次九天 分别是1月过年 5月黄金周 8月夏休 此外每个月有祝日休息
+每年三个大休 每次九天 分别是1月日本新年 5月日本黄金周 8月夏休 此外每个月有祝日休息
   
 # 消费
 
@@ -213,7 +213,7 @@ dreaMTank株式会社 社長
 
 # 语言
 
-日语要求N2水平相当 大概国内日语学习班加自学 3-6个月能达到 鄙人当年闭关在家俩月考过N1
+日语要求N2水平相当 大概国内日语学习班加自学 3-6个月能达到 当年闭关在家俩月考过N1 真想学其实很简单
 
 
 # 面试
@@ -227,7 +227,7 @@ dreaMTank株式会社 社長
 
 会社名：dreaMTank株式会社
 
-会社主页：[www.mt-dreamtank.com](http://www.mt-dreamtank.com)
+会社主页：[www.dreamtank.co.jp](https://www.dreamtank.co.jp)
 
 【招聘】【赴日本软件开发工程师】
 
@@ -235,7 +235,7 @@ dreaMTank株式会社 社長
 
 ①iOS、Android、Unity ARVR NativeApp 开发技术者
 
-②Linux、C、C++、Python嵌入式开发/AI机器机械学习编程技术者
+②Linux、C、C++、Python嵌入式开发/AI机器机械学习、Vue.js、React.js编程技术者
 
 ③JavaWeb、JavaServer服务器端开发工程师
 
@@ -245,7 +245,7 @@ dreaMTank株式会社 社長
 
 福利待遇：年薪400-1000万日元（根据日语和技术能力 上不封顶）
 
-简历邮箱：dreamtank007@gmail.com 邮件里备注您的微信 然后加微信视频面试
+简历邮箱：dreamtank007@dreamtank.co.jp 邮件里备注您的微信 然后加微信视频面试
 
 新浪微博：李拯東
 
