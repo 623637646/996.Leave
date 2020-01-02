@@ -154,7 +154,7 @@
 
 # 关于裁员
 
-最近的[网易暴力裁员](https://mp.weixin.qq.com/s/FW7uR5t6UMMxgkCcAvk-MA)，和[华为251](https://www.zhihu.com/question/358623450/answer/917544427)闹得沸沸扬扬。
+最近的[网易暴力裁员](https://mp.weixin.qq.com/s/FW7uR5t6UMMxgkCcAvk-MA)，和[华为251](https://zh.wikipedia.org/wiki/%E8%8F%AF%E7%82%BA251%E4%BA%8B%E4%BB%B6)闹得沸沸扬扬。
 
 个人感觉，随着人口红利的消失，经济发展的减缓，企业这种大规模的裁员是必然的。今年是十年来最差的一年，也许是未来十年最好的一年。
 
