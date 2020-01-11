@@ -32,6 +32,7 @@
 * [澳大利亚](https://github.com/623637646/996.Leave/blob/master/country/Australia.md)
 * [瑞典](https://github.com/623637646/996.Leave/blob/master/country/Sweden.md)
 * [日本](https://github.com/623637646/996.Leave/blob/master/country/Japan.md)
+* [加拿大](country/Canada.md)
 
 ---
 
