@@ -15,23 +15,23 @@
 
 ### 其他
 
-如果您在海外工作，了解海外某个国家的政策，**[请帮助大家](https://github.com/623637646/996.Leave/blob/master/Contribution.md)**，让国内的人也能了解。
+如果您在海外工作，了解海外某个国家的政策，**[请帮助大家](Contribution.md)**，让国内的人也能了解。
 
-想要了解海外招聘的，请移步“**[招聘资源](https://github.com/623637646/996.Leave/blob/master/Careers.md)**”
+想要了解海外招聘的，请移步“**[招聘资源](Careers.md)**”
 
 如果有任何问题，或者内容错误，请提 **[Issues](https://github.com/623637646/996.Leave/issues)** 。
 
 本篇为**新加坡篇**，其他的国家：
 
-* [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
-* [荷兰](https://github.com/623637646/996.Leave/blob/master/country/Netherlands.md)
-* [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
-* [新西兰](https://github.com/623637646/996.Leave/blob/master/country/New%20Zealand.md)
-* [奥地利](https://github.com/623637646/996.Leave/blob/master/country/Austria.md)
+* [美国](country/United%20States.md)
+* [荷兰](country/Netherlands.md)
+* [英国](country/United%20Kingdom.md)
+* [新西兰](country/New%20Zealand.md)
+* [奥地利](country/Austria.md)
 * [德国](country/Germany.md)
-* [澳大利亚](https://github.com/623637646/996.Leave/blob/master/country/Australia.md)
-* [瑞典](https://github.com/623637646/996.Leave/blob/master/country/Sweden.md)
-* [日本](https://github.com/623637646/996.Leave/blob/master/country/Japan.md)
+* [澳大利亚](country/Australia.md)
+* [瑞典](country/Sweden.md)
+* [日本](country/Japan.md)
 * [加拿大](country/Canada.md)
 
 ---
