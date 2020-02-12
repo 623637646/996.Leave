@@ -23,10 +23,10 @@
 
 本篇为**新加坡篇**，其他的国家：
 
-* [美国](country/United%20States.md)
+* [美国](country/United-States.md)
 * [荷兰](country/Netherlands.md)
-* [英国](country/United%20Kingdom.md)
-* [新西兰](country/New%20Zealand.md)
+* [英国](country/United-Kingdom.md)
+* [新西兰](country/New-Zealand.md)
 * [奥地利](country/Austria.md)
 * [德国](country/Germany.md)
 * [澳大利亚](country/Australia.md)
