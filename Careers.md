@@ -154,3 +154,8 @@ Linkedin, Stackoverflow,或者各大公司官网
 
 邮箱：dreamtank007@gmail.com
 
+---
+# 日本 SmartNews
+* SmartNews是一个新闻聚合APP，目前是E轮的独角兽，主要用户在日本和美国，月活2千万，目前正在高速增长中。公司成员来自不同国家，文化多元自由，技术氛围浓厚；迎接市场挑战的同时，亦注重员工的成长和身心健康，薪资福利属于日本的第一梯队。
+* 现诚招各个岗位的优秀技术人员，不要求日语能力，但需要用英语沟通。详细请参考 https://apply.workable.com/smartnews/
+* 希望交流或内推的朋友，欢迎透过[邮箱](https://github.com/aaron0320)联系我。
