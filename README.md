@@ -15,22 +15,24 @@
 
 ### 其他
 
-如果您在海外工作，了解海外某个国家的政策，**[请帮助大家](https://github.com/623637646/996.Leave/blob/master/Contribution.md)**，让国内的人也能了解。
+如果您在海外工作，了解海外某个国家的政策，**[请帮助大家](Contribution.md)**，让国内的人也能了解。
 
-想要了解海外招聘的，请移步“**[招聘资源](https://github.com/623637646/996.Leave/blob/master/Careers.md)**”
+想要了解海外招聘的，请移步“**[招聘资源](Careers.md)**”
 
 如果有任何问题，或者内容错误，请提 **[Issues](https://github.com/623637646/996.Leave/issues)** 。
 
 本篇为**新加坡篇**，其他的国家：
 
-* [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
-* [荷兰](https://github.com/623637646/996.Leave/blob/master/country/Netherlands.md)
-* [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
-* [新西兰](https://github.com/623637646/996.Leave/blob/master/country/New%20Zealand.md)
-* [奥地利](https://github.com/623637646/996.Leave/blob/master/country/Austria.md)
-* [澳大利亚](https://github.com/623637646/996.Leave/blob/master/country/Australia.md)
-* [瑞典](https://github.com/623637646/996.Leave/blob/master/country/Sweden.md)
-* [日本](https://github.com/623637646/996.Leave/blob/master/country/Japan.md)
+* [美国](country/United-States.md)
+* [荷兰](country/Netherlands.md)
+* [英国](country/United-Kingdom.md)
+* [新西兰](country/New-Zealand.md)
+* [奥地利](country/Austria.md)
+* [德国](country/Germany.md)
+* [澳大利亚](country/Australia.md)
+* [瑞典](country/Sweden.md)
+* [日本](country/Japan.md)
+* [加拿大](country/Canada.md)
 
 ---
 
@@ -132,7 +134,6 @@
 
 新加坡一年18天年假，外加14天法定假日，其他各种假期（事假，病假，住院假等等）忘记具体怎样了，反正很多。基本上没遇到过不批年假的。
 
-
 # 消费
 
 1. 租房，2500 - 10000 人民币每月，单间。总体来说贵一点。
@@ -152,6 +153,15 @@
 
 新加坡通胀率3-5%
 
+# 关于裁员
+
+最近的[网易暴力裁员](https://mp.weixin.qq.com/s/FW7uR5t6UMMxgkCcAvk-MA)，和[华为251](https://zh.wikipedia.org/wiki/%E8%8F%AF%E7%82%BA251%E4%BA%8B%E4%BB%B6)闹得沸沸扬扬。
+
+个人感觉，随着人口红利的消失，经济发展的减缓，企业这种大规模的裁员是必然的。今年是十年来最差的一年，也许是未来十年最好的一年。
+
+经济周期决定企业裁员，无可厚非，但是极力反对暴力裁员，裁员应该按照《劳动法》给与补偿。希望企业不要吃相太难看，也希望中国的法律可以是弱者的保护伞，而不是强者的垫脚石。
+
+相反，新加坡是个真正法制的国家，我不敢保证企业一定不裁员。但是通过法律途径维护自身的合法权益是肯定的。
 
 # 语言
 
@@ -192,7 +202,6 @@
 
 几篇不错的文章
 
-* [别再抱怨了，没有比新加坡更好的地方了](https://mp.weixin.qq.com/s/3RKIEBNBCgvuVlkN-rItDA) (标题有点扯，但是文章感觉不错，强者在哪里都是强者，弱者在哪里都会抱怨)
 * [从国内跳槽至新加坡工作的经验分享](https://wsgzao.github.io/post/singapore/)
 * [作为一个软件工程师，为什么考虑去新加坡工作？](https://zhuanlan.zhihu.com/p/63979314)
 * [程序员的黑砖窑，东南亚博彩骗局详解](https://www.tmtpost.com/3886060.html)（计划去菲律宾，马来西亚做博彩的工程师请注意）
@@ -234,7 +243,7 @@
 
 如果你喜欢体验不同的生活
 
-如果你向往人权平等，言论自由，法可责众
+如果你向往人权平等，言论自由，法治社会
 
 世界那么大，出去看看吧。
 

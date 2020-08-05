@@ -4,7 +4,7 @@
 
 # 国家&公司
 
-荷兰 Irdeto (Naspers前子公司)
+荷兰 ABN AMRO(荷兰银行)
 
 # 关于我
 
@@ -31,13 +31,12 @@
 荷兰对于雇佣来自国外的员工有额外的税收优惠，也就是所谓的30% ruling, 意思是你税前工资的30%免税，一般来说，有ruling的人的税后工资会多出好几百欧。
 [official information here](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/individuals/living_and_working/working_in_another_country_temporarily/you_are_coming_to_work_in_the_netherlands/30_facility_for_incoming_employees/)
 
-# 税、养老、医疗及其他
-  
-税真是心头痛啊。
+# 税、养老、医疗及其他  
 ### 个税
-收入税分四档，具体税率如下。第二档跟第三档的总税率一样（都是40.84%）。
+收入税分四档，具体税率如下。第二档跟第三档的总税率一样(都是40.84%)。
 
 ![](https://github.com/wlongxiang/MyFiles/blob/master/Screen%20Shot%202019-04-06%20at%2020.49.25.png?raw=true)
+以上为2018年数据。
 
 source: https://www.expatax.nl/tax-rates-2018
 
