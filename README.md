@@ -200,6 +200,37 @@
 
 * [新加坡加班和竞争也十分激烈，补充几个遗漏的观点](https://github.com/623637646/996.Leave/issues/28)
 
+
+一个拿到了 Shopee offer 的工程师咨询：
+
+我看了你的 996.Leave 的文章，怀着想出国体验的想法也投了 Shopee ，也拿到了 offer 。不过在之后翻看了一下 Glassdoor 上对 Shopee 的评价，发现了很多差评，如：
+
+* Cannot take leave more than 1 week
+* Work in the office until 2am for two days and be in the office by 9:50am every month during campaign
+* Led by a bunch of inexperienced managers
+* Get tech requirements from newly joined PMs who know the products no better than you
+* Controlled by HRs in every aspects of your life
+
+此类评论让我蛮犹豫的，我想向你问一下实际的情况，以及是否推荐应届生前去。希望可以得到你的回复。
+
+以及我的回复：
+
+关于你说的这些评论，有不中肯的地方，也有有道理的。我来一个一个说吧。
+
+* Cannot take leave more than 1 week
+    我没遇到过这个事情。也没听说过请假一个星期就不批的，很多人请假都是一两周，这很正常。我只遇到过连续请假2个月不批的。
+* Work in the office until 2am for two days and be in the office by 9:50am every month during campaign
+    大促期间，确实需要很多人工作到很晚，或者早点去公司。就像阿里的双十一，这是一年中很重要的一天。我觉得，一般情况下，我工作生活平衡得还不错。
+* Led by a bunch of inexperienced managers
+    这个个人主观印象太强了，任何公司的有好的领导和能力不足的领导。
+* Get tech requirements from newly joined PMs who know the products no better than you
+    确实有的PM经验不太丰富。但是不代表整个公司都是这样的。
+*Controlled by HRs in every aspects of your life
+    HR从来没有控制我的生活。也没听说过HR在控制谁的生活。
+    
+我推荐应届生来，因为公司前景不错，平台也是很优秀。对应届生的履历有着很重要的提升。
+我是非利益相关者，所以不捧Shopee或者黑Shopee。
+
 几篇不错的文章
 
 * [从国内跳槽至新加坡工作的经验分享](https://wsgzao.github.io/post/singapore/)
