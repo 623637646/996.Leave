@@ -241,10 +241,10 @@
 
 以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
 
-* **我现在在Shopee，这是[Shopee的招聘链接](https://careers.shopee.sg)**
+* 这是[Shopee的招聘链接](https://careers.shopee.sg)
     * May(Email:may.yang@shopee.com) 负责Shopee技术招聘相关事宜 （如果有大数据，数据分析师和产品经理，也欢迎申请）
     * Dora(Email:qiand@seagroup.com) 负责Shopee技术管理岗招聘相关事宜
-* 也可以找我内推，给我发邮件附上您的英文简历即可，我的邮箱：wy19900729@gmail.com
+    * 也可以找我内推，给我发邮件附上您的英文简历即可，我的邮箱：wy19900729@gmail.com
 * 我是通过猎头朋友推荐过来的。感谢猎头Season (Email:season.yang@ambition.com.sg , [Linkedin](https://www.linkedin.com/in/yangseason/))。
 * [狮城小马 | 🇸🇬新加坡IT互联网职位内推](https://www.sgxiaoma.com/zh/)（由在新工程师维护的一个新加坡互联网公司职位内推网站）
 * 本地招聘网站：jobsdb, jobstreet, Monster。
