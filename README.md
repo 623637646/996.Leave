@@ -225,7 +225,7 @@
     这个个人主观印象太强了，任何公司的有好的领导和能力不足的领导。
 * Get tech requirements from newly joined PMs who know the products no better than you
     确实有的PM经验不太丰富。但是不代表整个公司都是这样的。
-*Controlled by HRs in every aspects of your life
+* Controlled by HRs in every aspects of your life
     HR从来没有控制我的生活。也没听说过HR在控制谁的生活。
     
 我推荐应届生来，因为公司前景不错，平台也是很优秀。对应届生的履历有着很重要的提升。
