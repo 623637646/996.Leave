@@ -279,3 +279,7 @@
 世界那么大，出去看看吧。
 
 **很多事情你无法改变，但可以选择离开**
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave)
