@@ -241,7 +241,7 @@
 
 以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
 
-* 可以找我内推Shopee，目前Shopee的办公地点是**新加坡**或者**深圳**，给我发邮件附上您的英文简历即可，我的邮箱：wy19900729@gmail.com
+* 可以找我内推Shopee，给我发邮件附上您的英文简历和[想要应聘的工作](https://careers.shopee.sg/)即可，我的邮箱：wy19900729@gmail.com
 * 也可以自己投简历，这是[Shopee的招聘链接](https://careers.shopee.sg)
     * May(Email:may.yang@shopee.com) 负责Shopee技术招聘相关事宜 （如果有大数据，数据分析师和产品经理，也欢迎申请）
     * Dora(Email:qiand@seagroup.com) 负责Shopee技术管理岗招聘相关事宜
