@@ -1,5 +1,6 @@
 # 996.Leave
 > 很多事情你无法改变，但可以选择离开。
+是的
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
