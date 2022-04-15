@@ -1,6 +1,7 @@
-国外没有996，世界那么大，出去看看吧。
+# 996.Leave
+> 很多事情你无法改变，但可以选择离开。
 
-**很多事情你无法改变，但可以选择离开**
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 ### 背景
 
@@ -14,19 +15,24 @@
 
 ### 其他
 
-如果您在海外工作，了解海外某个国家的政策，**[请帮助大家](https://github.com/623637646/996.Leave/blob/master/Contribution.md)**，让国内的人也能了解。
+如果您在海外工作，了解海外某个国家的政策，**[请帮助大家](Contribution.md)**，让国内的人也能了解。
 
-想要了解海外招聘的，请移步“**[招聘资源](https://github.com/623637646/996.Leave/blob/master/Careers.md)**”
+想要了解海外招聘的，请移步“**[招聘资源](Careers.md)**”
 
 如果有任何问题，或者内容错误，请提 **[Issues](https://github.com/623637646/996.Leave/issues)** 。
 
 本篇为**新加坡篇**，其他的国家：
 
-* [美国](https://github.com/623637646/996.Leave/blob/master/country/United%20States.md)
-* [荷兰](https://github.com/623637646/996.Leave/blob/master/country/Netherlands.md)
-* [英国](https://github.com/623637646/996.Leave/blob/master/country/United%20Kingdom.md)
-* [新西兰](https://github.com/623637646/996.Leave/blob/master/country/New%20Zealand.md)
-
+* [美国](country/United-States.md)
+* [荷兰](country/Netherlands.md)
+* [英国](country/United-Kingdom.md)
+* [新西兰](country/New-Zealand.md)
+* [奥地利](country/Austria.md)
+* [德国](country/Germany.md)
+* [澳大利亚](country/Australia.md)
+* [瑞典](country/Sweden.md)
+* [日本](country/Japan.md)
+* [加拿大](country/Canada.md)
 
 ---
 
@@ -71,7 +77,7 @@
   * 医疗保险 2%
   * 住房公积金 12%
   
-新加坡：共 1.37% - 8.72%
+新加坡：共 1.37% - 14%
 
 ### 个税
 
@@ -97,12 +103,9 @@
 
 ### 养老保险
 
-来，讲个笑话（好像是XX日报的标题？）
+来，讲个笑话
 
-1. 1985：只生一个好，政府来养老
-2. 1995：只生一个好，政府帮养老
-3. 2005：养老不能靠政府
-4. 2012：推迟退休好，自己来养老
+<img src="https://user-images.githubusercontent.com/5275802/144371544-b6df0c12-55e4-490b-a135-3a0a480212e1.PNG" alt="drawing" width="250"/>
 
 我不需要政府养老了，我自己买点比特币养老吧。
 
@@ -128,7 +131,6 @@
 
 新加坡一年18天年假，外加14天法定假日，其他各种假期（事假，病假，住院假等等）忘记具体怎样了，反正很多。基本上没遇到过不批年假的。
 
-
 # 消费
 
 1. 租房，2500 - 10000 人民币每月，单间。总体来说贵一点。
@@ -148,12 +150,23 @@
 
 新加坡通胀率3-5%
 
+# 关于裁员
+
+最近的[网易暴力裁员](https://mp.weixin.qq.com/s/FW7uR5t6UMMxgkCcAvk-MA)，和[华为251](https://zh.wikipedia.org/wiki/%E8%8F%AF%E7%82%BA251%E4%BA%8B%E4%BB%B6)闹得沸沸扬扬。
+
+个人感觉，随着人口红利的消失，经济发展的减缓，企业这种大规模的裁员是必然的。今年是十年来最差的一年，也许是未来十年最好的一年。
+
+经济周期决定企业裁员，无可厚非，但是极力反对暴力裁员，裁员应该按照《劳动法》给与补偿。希望企业不要吃相太难看，也希望中国的法律可以是弱者的保护伞，而不是强者的垫脚石。
+
+相反，新加坡是个真正法制的国家，我不敢保证企业一定不裁员。但是通过法律途径维护自身的合法权益是肯定的。
 
 # 语言
 
 新加坡英语为主，不过华人和大部分新加坡人可以沟通中文。
 
 很多新加坡的公司对英语要求不高。对于想来新加坡的人来说，**英语真的不是最重要的！坚持迈出第一步才是。**
+
+**我的公司全程中文面试。**
 
 拿我举例子吧：
 
@@ -184,18 +197,56 @@
 
 * [新加坡加班和竞争也十分激烈，补充几个遗漏的观点](https://github.com/623637646/996.Leave/issues/28)
 
+
+一个拿到了 Shopee offer 的工程师咨询：
+
+我看了你的 996.Leave 的文章，怀着想出国体验的想法也投了 Shopee ，也拿到了 offer 。不过在之后翻看了一下 Glassdoor 上对 Shopee 的评价，发现了很多差评，如：
+
+* Cannot take leave more than 1 week
+* Work in the office until 2am for two days and be in the office by 9:50am every month during campaign
+* Led by a bunch of inexperienced managers
+* Get tech requirements from newly joined PMs who know the products no better than you
+* Controlled by HRs in every aspects of your life
+
+此类评论让我蛮犹豫的，我想向你问一下实际的情况，以及是否推荐应届生前去。希望可以得到你的回复。
+
+以及我的回复：
+
+关于你说的这些评论，有不中肯的地方，也有有道理的。我来一个一个说吧。
+
+* Cannot take leave more than 1 week
+    我没遇到过这个事情。也没听说过请假一个星期就不批的，很多人请假都是一两周，这很正常。我只遇到过连续请假2个月不批的。
+* Work in the office until 2am for two days and be in the office by 9:50am every month during campaign
+    大促期间，确实需要很多人工作到很晚，或者早点去公司。就像阿里的双十一，这是一年中很重要的一天。我觉得，一般情况下，我工作生活平衡得还不错。
+* Led by a bunch of inexperienced managers
+    这个个人主观印象太强了，任何公司的有好的领导和能力不足的领导。
+* Get tech requirements from newly joined PMs who know the products no better than you
+    确实有的PM经验不太丰富。但是不代表整个公司都是这样的。
+* Controlled by HRs in every aspects of your life
+    HR从来没有控制我的生活。也没听说过HR在控制谁的生活。
+    
+我推荐应届生来，因为公司前景不错，平台也是很优秀。对应届生的履历有着很重要的提升。
+我是非利益相关者，所以不捧Shopee或者黑Shopee。
+
+几篇不错的文章
+
+* [从国内跳槽至新加坡工作的经验分享](https://wsgzao.github.io/post/singapore/)
+* [作为一个软件工程师，为什么考虑去新加坡工作？](https://zhuanlan.zhihu.com/p/63979314)
+* [程序员的黑砖窑，东南亚博彩骗局详解](https://www.tmtpost.com/3886060.html)（计划去菲律宾，马来西亚做博彩的工程师请注意）
+
 # 招聘资源
 
 以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
 
-* **我现在在Shopee，这是[Shopee的招聘链接](https://careers.shopee.sg)**
+* 如需找我内推Shopee
+    1. 写一封邮件。从[Shopee招聘网站](https://careers.shopee.sg)选好想要应聘的工作，把职位链接（例如：https://careers.shopee.sg/job-detail/1461/ ）写明在邮件中。
+    2. 邮件附上您的英文简历 
+    3. 发送至我的邮箱：wy19900729@gmail.com
+* 也可以自己投简历，这是[Shopee的招聘链接](https://careers.shopee.sg)
     * May(Email:may.yang@shopee.com) 负责Shopee技术招聘相关事宜 （如果有大数据，数据分析师和产品经理，也欢迎申请）
     * Dora(Email:qiand@seagroup.com) 负责Shopee技术管理岗招聘相关事宜
-* 我是通过猎头朋友推荐过来的。感谢猎头Season (Email:season.yang@ambition.com.sg , [Linkedin](https://www.linkedin.com/in/yangseason/))。
-* [4月招聘 | 谁说裁员大潮引发就业寒冬？！新加坡25259个工作岗位紧急招人～](https://mp.weixin.qq.com/s/eVC7HxqZLk6K6YZwDTKs8g)
-* 推荐微信公众号 新加坡万事通，新加坡眼，新加坡狮城椰子，这些公众号不定期发布招聘信息，或者发布新加坡相关文章。
+* [狮城小马 | 🇸🇬新加坡IT互联网职位内推](https://www.sgxiaoma.com/zh/)（由在新工程师维护的一个新加坡互联网公司职位内推网站）
 * 本地招聘网站：jobsdb, jobstreet, Monster。
-* 由于我公司政策和个人精力原因，不能内推到公司工作，谢谢理解。
 
 ---
 
@@ -217,12 +268,17 @@
 
 <br/>
 
-如果你向往自由，公正
 
 如果你喜欢挑战
 
 如果你喜欢体验不同的生活
 
+如果你向往人权平等，言论自由，法治社会
+
 世界那么大，出去看看吧。
 
 **很多事情你无法改变，但可以选择离开**
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave)
