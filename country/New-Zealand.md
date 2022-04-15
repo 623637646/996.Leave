@@ -4,7 +4,7 @@
 
 # 国家&公司
 
-新西兰，Yellow
+新西兰，某银行
 
 # 关于我
 
@@ -24,6 +24,8 @@ Summer Hours，很多公司支持灵活安排时间，在夏天每周的 4 天�
 
 另外，早上如果有事情需要晚到的话，基本和组里的人招呼一声就好了。
 
+疫情前期，一周去 2 天公司，目前一直在家办公。
+
 # 薪水
 
 **此处均为平均水平**
@@ -32,11 +34,11 @@ Summer Hours，很多公司支持灵活安排时间，在夏天每周的 4 天�
 
 年薪和国内没法比，但时薪可以呀。从 BAT TMD 过来肯定会有心理落差。有得必有失，就看更看重什么。
 
-年薪：一个比较粗暴的薪水和级别对应关系是，初级 5-7 W，中级 7-9 W，高级 9-12 W。13W 及上需要看运气，14W 基本到顶，架构 15-18 W，管理另算。
+年薪：就 IT 行业而言，一个比较粗暴的薪水和级别对应关系是，初级 7-9 W，中级 9-11 W，高级 12-16 W。就干活的 Engineer 来说，15W 及以上需要看运气，架构 15-20 W，管理另算。
 
-月薪：按最低工资计算，税前 3 K，税后为 2.6 K。不过 NZ 基本是每两周（Fortnight）发一次工资。
+月薪：按最低工资计算 (不选 KiwiSaver)，税前 `3674`，税后为 `3101`。不过 NZ 基本是每两周（Fortnight）发一次工资。
 
-时薪：2019 年 4 月 1 日，最低工资上调至 17.70 / 小时，对应到税后年薪是 3.1 W。如果做 Contractor 的话对应薪水一般是 80-120 / 小时，具体看经验水平。
+时薪：2022 年 4 月 1 日起，最低工资上调至 `21.20` / 小时，对应到税前年薪 `44,096`，税后年薪是 `37,222`。如果做合同工 (Contractor) 的话，对应薪水一般是 `80-130` / 小时，具体看经验水平。
 
 具体可使用 [薪水计算器](https://www.paye.net.nz/calculator.html) 进行计算。
 
@@ -44,9 +46,7 @@ Summer Hours，很多公司支持灵活安排时间，在夏天每周的 4 天�
   
 ### 个税
 
-年薪超过 7 W，个税按 33% 缴纳。对于 IT 来说，基本都会超过这个线。
-
-![](https://upload-images.jianshu.io/upload_images/3113154-2893138918de58e7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+年薪位于 `7-18W` 之间 ，个税按 `33%` 缴纳，对于 IT 来说，基本都会超过这个线。超过 `18W` 的部分，按 `39%` 缴纳。
 
 具体可查看 [IRD 官方网站](https://www.ird.govt.nz/how-to/taxrates-codes/rates/itaxsalaryandwage-incometaxrates.html)
 
@@ -88,13 +88,20 @@ P.S. 单身狗的专属福利，开不开心？惊不惊喜？
 
 年假：法定的有 4 周
 
-病假：法定 5 天病假（大公司基本都有 10 天）
+病假：2021 年 7 月 24 日起，由 5 天变为 10 天（大公司一般有 15 天）
 
 公共假期：有 11 天，具体的 [公共假期](https://www.employment.govt.nz/leave-and-holidays/public-holidays/public-holidays-and-anniversary-dates/) 可在官网查看
 
 产假：2018 年 7 月 1 日带薪产假为 22 周，2020 年7 月 1 日起，该假期将增加到 26 周。
 
 陪产假：法定 2 周，无薪。部分公司是 1 周带薪 1 周无薪。
+
+其他常见假期：
+- Stress Leave：工作压力大时使用
+- Garden leave：员工保留其就业岗位，领取全额工资但不去上班
+- Long Service Leave：员工在公司工作时间超过一定年限，公司提供的额外假期
+- Voluntary Leave：当志愿者时的假期
+- Jury service：参加陪审团服务时的假期
   
 # 消费
 
@@ -112,7 +119,7 @@ P.S. 单身狗的专属福利，开不开心？惊不惊喜？
 
 # 房价
 
-新西兰均价超 50 W，奥克兰均价已超 100 W，现在有所回落，不过好房的价格还是坚挺。
+2022 年，新西兰房价中位数超 89 W，奥克兰中位数已超 120 W。房市曾一度火爆，现在有所回落，不过好房的价格依然坚挺。
 
 具体产权可分为（价格从高到低）:
 
@@ -123,10 +130,9 @@ P.S. 单身狗的专属福利，开不开心？惊不惊喜？
 
 # 通货膨胀
 
-统计局数据显示，CPI 跟去年同比增长 2% 左右：
+截止 2022 年 1 月 27 日，统计局数据显示，CPI 跟去年同比增长 `5.9%`：
 
-![](https://upload-images.jianshu.io/upload_images/3113154-ba6e4d6c9c8a3023.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![](https://d3fy651gv2fhd3.cloudfront.net/charts/new-zealand-consumer-price-index-cpi@2x.png?s=newzealanconpriindcp&v=202201291008V20220312&d1=20120416&type=splinearea)
 # 语言
 
 英语
@@ -148,6 +154,6 @@ P.S. 单身狗的专属福利，开不开心？惊不惊喜？
 以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
 
 - Seek, LinkedIn 是常见渠道。但整个招聘市场基本以猎头中介为主。相对而言，内推更为有效。
-- 惠灵顿地区，主要IT 公司有Xero(AWS Cloud),Trademe, CatalystIT,BNZ, Spark 等，另外政府单位机会也相当不错。最近Devops,AWS 相当火
-
-- 欢迎通过 Email 联系我，很愿意和各位朋友探讨我可以如何帮助你，Email 地址可以在我的 GitHub 个人页面下找到。
+- 惠灵顿地区：主要 IT 公司有 Xero, Trademe, CatalystIT, BNZ, Spark 等，另外政府单位机会也相当不错。
+- 目前远程办公已经成为趋势，在 NZ 也有很多直接 fully remote 澳洲 / 美国 / 欧洲等公司的机会。
+- 愿意和各位朋友探讨可以如何帮到你，联系方式可以在我的 [个人博客](https://www.davidlu1001.me/about) 页面找到。
