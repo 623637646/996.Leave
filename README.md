@@ -238,11 +238,7 @@
 
 以下联系方式均已得到许可，大家可以联系他们，咨询相关事宜。
 
-* 如需找我内推Shopee
-    1. 写一封邮件。从[Shopee招聘网站](https://careers.shopee.sg)选好想要应聘的工作，把职位链接（例如：https://careers.shopee.sg/job-detail/1461/ ）写明在邮件中。
-    2. 邮件附上您的英文简历 
-    3. 发送至我的邮箱：wy19900729@gmail.com
-* 也可以自己投简历，这是[Shopee的招聘链接](https://careers.shopee.sg)
+* 可以自己投简历，这是[Shopee的招聘链接](https://careers.shopee.sg)
     * May(Email:may.yang@shopee.com) 负责Shopee技术招聘相关事宜 （如果有大数据，数据分析师和产品经理，也欢迎申请）
     * Dora(Email:qiand@seagroup.com) 负责Shopee技术管理岗招聘相关事宜
 * [狮城小马 | 🇸🇬新加坡IT互联网职位内推](https://www.sgxiaoma.com/zh/)（由在新工程师维护的一个新加坡互联网公司职位内推网站）
