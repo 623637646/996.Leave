@@ -38,15 +38,7 @@
 
 # 国家&公司
 
-新加坡 Shopee
-
-# 关于我
-
-[Yanni，王氩](https://github.com/623637646)
-
-2018年8月份加入Shopee（新加坡）公司任职iOS开发工程师至今。
-
-90年出生，13年国内二本毕业，iOS工作7年。
+~~新加坡 Shopee~~ 已经不在Shopee
 
 # 工作强度
 
@@ -230,6 +222,7 @@
 
 几篇不错的文章
 
+* [Shopee 衰落幕后：一家最像中国大厂的东南亚巨头的全球化乱局](https://mp.weixin.qq.com/s/3AJ32QiIFz-5xzWiiyCHIA)
 * [从国内跳槽至新加坡工作的经验分享](https://wsgzao.github.io/post/singapore/)
 * [作为一个软件工程师，为什么考虑去新加坡工作？](https://zhuanlan.zhihu.com/p/63979314)
 * [程序员的黑砖窑，东南亚博彩骗局详解](https://www.tmtpost.com/3886060.html)（计划去菲律宾，马来西亚做博彩的工程师请注意）
